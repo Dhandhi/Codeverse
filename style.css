@@ -203,7 +203,8 @@ a {
 
 @media (max-width:520px) {
     .hero .logo-big {
-        max-width: 120px
+        max-width: 120px;
+        border-radius:50%;
     }
 }
 
@@ -340,5 +341,6 @@ textarea {
     border-top: 1px solid rgba(255, 255, 255, .08)
 
 }
+
 
 
