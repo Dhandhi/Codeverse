@@ -55,6 +55,7 @@ a {
 .brand img {
     height: 44px;
     width: auto
+    border-radius:50%;
 }
 
 .brand span {
@@ -334,4 +335,5 @@ textarea {
     text-align: center;
     color: var(--muted);
     border-top: 1px solid rgba(255, 255, 255, .08)
+
 }
